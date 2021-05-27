@@ -1,6 +1,7 @@
 # BACA BAGIAN INI SAMPAI SELESAI!
 
 Untuk mengerjakannya, Fork terlebih dahulu repo ini (Otomatis akan ada repo baru yang sama di github kalian, buka github kalian) lalu Clone repo yang ada di Profile Kalian masing-masing dan setelah itu buat Branch baru dengan nama yang sesuai dengan bagian yang kawan-kawan kerjakan, misal mengerjakan bagian Cards maka namai branch nya dengan cards, lalu Checkout branch baru tersebut dan mulai coding...
+Kita menggunakan font-family Montserrat sebagai font utama
 
 1. Web ini akan menggunakan ICONS dari Fontawesome.com oleh karena itu bagi yang bagiannya ada yang menggunakan icon maka lihat di fontawesome
 2. Web ini menggunakan Boostrap 4 sebagai Styling nya tapi ada juga file style.css untuk me-styling yang bootstrap tidak sediakan
