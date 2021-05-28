@@ -4,3 +4,21 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+.nav-logo{
+    font-weight: 700;
+}
+.btn-purple{
+    background-color: #5B21B6;
+    color: #ffff;
+}
+.btn-purple:hover{
+    background-color: #7C3AED;
+    color: #ffff;
+}
+.foo-text{
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.bg-gray{
+    background-color: #D1D5DB;
+}
