@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+
 .nav-logo{
     font-weight: 700;
 }
@@ -21,4 +22,26 @@
 }
 .bg-gray{
     background-color: #D1D5DB;
+}
+
+.shadow{
+    box-shadow: 3px 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cards-title{
+    letter-spacing: 2px;
+}
+
+.cards-subtitle{
+    font-weight: 300;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+}
+
+.fa-star{
+    color: #F59E0B;
+}
+
+.mt-minus{
+    margin-top: -17px;
 }
