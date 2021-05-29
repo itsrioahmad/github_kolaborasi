@@ -4,6 +4,11 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+/* untuk membuat judul menjadi bold */
+.title_bold{
+    font-weight: bold;
+    opacity: 95%;
+}
 
 .nav-logo{
     font-weight: 700;
@@ -44,4 +49,14 @@
 
 .mt-minus{
     margin-top: -17px;
+}
+/* ini untuk memperkecil border bawah bisa kalian gunakan untuk lebar border yang lebih kecil */
+#line_bottom_12{
+    width: 12%;
+    
+}
+#link_icon{
+    font-size: 21px;
+    color: #000;
+    opacity: 70%;
 }
