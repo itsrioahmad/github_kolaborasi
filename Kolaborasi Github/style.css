@@ -1,8 +1,70 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+/* untuk membuat judul menjadi bold */
+.title_bold{
+    font-weight: bold;
+    opacity: 95%;
+}
+
+.nav-logo {
+  font-weight: 700;
+}
+.btn-purple {
+  background-color: #5b21b6;
+  color: #ffff;
+}
+.btn-purple:hover {
+  background-color: #7c3aed;
+  color: #ffff;
+}
+.foo-text {
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+.bg-gray {
+  background-color: #d1d5db;
+}
+
+.shadow {
+  box-shadow: 3px 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cards-title {
+  letter-spacing: 2px;
+}
+
+.cards-subtitle {
+  font-weight: 300;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+}
+
+.fa-star {
+  color: #f59e0b;
+}
+
+.mt-minus {
+  margin-top: -17px;
+}
+.contact-kolom {
+  padding-top: 7rem;
+}
+.spancon {
+  width: 12%;
+}
+/* ini untuk memperkecil border bawah bisa kalian gunakan untuk lebar border yang lebih kecil */
+#line_bottom_12{
+    width: 12%;
+    
+}
+#link_icon{
+    font-size: 21px;
+    color: #000;
+    opacity: 70%;
 }
   /* untuk membuat judul menjadi bold */
 .title_bold{
